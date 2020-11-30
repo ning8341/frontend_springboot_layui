@@ -13,7 +13,8 @@
 |  查  | var localTest = layui.data('test');<br/>console.log(localTest.nickname); //获得“贤心” | 向表 test 读取全部的数据                                     |
 
 ### 三、目录结构说明
-> |-- DISCUZ
+```
+> |-- FRONTEND_SPRINGBOOT_LAYUI
 >     |-- favicon.ico
 >     |-- index.html    //入口
 >     |-- LICENSE
@@ -33,7 +34,7 @@
 >         |-- news
 >         |-- systemSetting
 >         |-- user      //用户模块
-
+```
 ### 四、table.js定制
 
 > E:/layui/discuz/layui/lay/modules/table.js
